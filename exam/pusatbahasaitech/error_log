@@ -1,0 +1,100 @@
+[12-May-2023 06:50:16 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/daftar_grup.php on line 20
+[12-May-2023 07:08:13 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/daftar_grup.php on line 20
+[12-May-2023 07:17:58 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/update_pendaftaran_grup.php on line 18
+[12-May-2023 07:19:27 UTC] PHP Notice:  Undefined variable: chk in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[12-May-2023 07:19:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[15-Jun-2023 07:40:36 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[15-Jun-2023 07:40:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[15-Jun-2023 07:40:42 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[15-Jun-2023 07:40:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[15-Jun-2023 07:42:30 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 76
+[25-Jul-2023 02:09:24 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[25-Jul-2023 02:09:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[25-Jul-2023 02:10:10 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/edit_daftar_grup.php on line 15
+[25-Jul-2023 02:10:12 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[25-Jul-2023 02:10:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[25-Jul-2023 02:14:29 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 580
+[25-Jul-2023 03:15:50 UTC] PHP Notice:  Undefined variable: chk in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[25-Jul-2023 03:15:50 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[25-Jul-2023 03:17:53 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/jadwalkan_grup.php on line 15
+[25-Jul-2023 03:18:10 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/jadwalkan_grup.php on line 15
+[25-Jul-2023 03:18:18 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/daftar_grup.php on line 20
+[25-Jul-2023 03:18:26 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/daftar_grup.php on line 20
+[25-Jul-2023 03:54:03 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 33
+[25-Jul-2023 04:23:34 UTC] PHP Notice:  Undefined index: role in /home/itechac1/public_html/exam/pusatbahasaitech/hapus_desk.php on line 5
+[26-Jul-2023 02:18:17 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 33
+[26-Jul-2023 02:19:58 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 33
+[26-Jul-2023 02:20:16 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 33
+[26-Jul-2023 02:44:23 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 33
+[26-Jul-2023 02:45:14 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 33
+[26-Jul-2023 02:59:34 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 33
+[26-Jul-2023 03:48:10 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 33
+[26-Jul-2023 03:48:21 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 33
+[26-Jul-2023 03:48:35 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 33
+[26-Jul-2023 03:49:04 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 33
+[26-Jul-2023 04:58:33 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 33
+[26-Jul-2023 07:05:55 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/jadwalkan_grup.php on line 15
+[26-Jul-2023 07:05:59 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/edit_daftar_grup.php on line 15
+[26-Jul-2023 07:14:48 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/daftar_grup.php on line 20
+[26-Jul-2023 07:15:02 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/jadwalkan_grup.php on line 15
+[26-Jul-2023 07:16:03 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/edit_daftar_grup.php on line 15
+[26-Jul-2023 07:18:34 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/jadwalkan_grup.php on line 15
+[26-Jul-2023 07:27:38 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/update_pendaftaran_grup.php on line 18
+[26-Jul-2023 07:28:52 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/jadwalkan_grup.php on line 15
+[26-Jul-2023 07:30:55 UTC] PHP Notice:  Undefined variable: chk in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[26-Jul-2023 07:30:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[26-Jul-2023 07:39:11 UTC] PHP Notice:  Undefined variable: chk in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[26-Jul-2023 07:39:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[26-Jul-2023 07:41:14 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/update_pendaftaran_grup.php on line 18
+[02-Aug-2023 01:59:06 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/daftar_grup.php on line 20
+[02-Aug-2023 01:59:07 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/daftar_grup.php on line 20
+[02-Aug-2023 01:59:11 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 01:59:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 01:59:13 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 01:59:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 01:59:53 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 01:59:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 01:59:57 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/jadwalkan_grup.php on line 15
+[02-Aug-2023 01:59:59 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 01:59:59 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:00:49 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:00:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:01:13 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:01:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:05:23 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 99
+[02-Aug-2023 02:09:39 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 99
+[02-Aug-2023 02:14:53 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 99
+[02-Aug-2023 02:15:51 UTC] PHP Notice:  Undefined index: kunci in /home/itechac1/public_html/exam/functions.php on line 99
+[02-Aug-2023 02:24:23 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:24:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:24:27 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/jadwalkan_grup.php on line 15
+[02-Aug-2023 02:24:28 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:24:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:24:43 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:24:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:33:34 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:33:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:34:24 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:34:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:37:27 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/jadwalkan_grup.php on line 15
+[02-Aug-2023 02:54:22 UTC] PHP Notice:  Undefined variable: row in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 02:54:22 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/itechac1/public_html/exam/pusatbahasaitech/list_konfirm.php on line 200
+[02-Aug-2023 03:47:07 UTC] PHP Notice:  Undefined variable: chk in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[02-Aug-2023 03:47:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[02-Aug-2023 03:50:27 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/daftar_grup.php on line 20
+[02-Aug-2023 03:50:34 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/edit_daftar_grup.php on line 15
+[02-Aug-2023 03:51:30 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/edit_daftar_grup.php on line 15
+[02-Aug-2023 03:52:39 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/edit_daftar_grup.php on line 15
+[02-Aug-2023 03:53:07 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/update_pendaftaran_grup.php on line 18
+[02-Aug-2023 04:07:30 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/edit_daftar_grup.php on line 15
+[02-Aug-2023 04:07:41 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/update_pendaftaran_grup.php on line 18
+[03-Aug-2023 02:54:58 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/daftar_grup.php on line 20
+[03-Aug-2023 02:55:37 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/update_pendaftaran_grup.php on line 18
+[03-Aug-2023 02:56:23 UTC] PHP Notice:  Undefined variable: chk in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[03-Aug-2023 02:56:23 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[03-Aug-2023 03:10:55 UTC] PHP Notice:  Undefined variable: chk in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[03-Aug-2023 03:10:55 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/itechac1/public_html/exam/pusatbahasaitech/proses_penjadwalan_grup.php on line 44
+[03-Aug-2023 03:18:05 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/update_pendaftaran_grup.php on line 18
+[03-Aug-2023 03:36:26 UTC] PHP Notice:  Undefined index: checked in /home/itechac1/public_html/exam/pusatbahasaitech/update_pendaftaran_grup.php on line 18
+[15-Sep-2023 01:51:34 UTC] PHP Warning:  Undefined array key "checked" in /home/itechac1/public_html/exam/pusatbahasaitech/jadwalkan_grup.php on line 15
+[15-Sep-2023 01:51:43 UTC] PHP Warning:  Undefined array key "checked" in /home/itechac1/public_html/exam/pusatbahasaitech/daftar_grup.php on line 20
